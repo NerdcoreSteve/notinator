@@ -1,0 +1,24 @@
+{
+  "name": "notinator",
+  "version": "0.0.1",
+  "description": "A simple note taking app built with node, express, and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdcoreSteve/notinator.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "react"
+  ],
+  "author": "Steve Smith",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NerdcoreSteve/notinator/issues"
+  },
+  "homepage": "https://github.com/NerdcoreSteve/notinator#readme"
+}
